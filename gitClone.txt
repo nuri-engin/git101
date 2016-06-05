@@ -1,4 +1,4 @@
-#1 	>git clone [url] #github hesabýnda ki repositorynýn lokale kopyalanmasý
+#1 	>git clone [url] #to clone your github account to local
 #2 	>git add . #to push all new file 
 	>git add [filename] #to push a specific file
 #3	>git commit -m "write commit descrition" #to prepare for pushing
