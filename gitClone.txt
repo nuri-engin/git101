@@ -1,1 +1,7 @@
->git clone [url] #github hesabýnda ki repositorynýn lokale kopyalanmasý
+#1 	>git clone [url] #github hesabýnda ki repositorynýn lokale kopyalanmasý
+#2 	>git add . #to push all new file 
+	>git add [filename] #to push a specific file
+#3	>git commit -m "write commit descrition" #to prepare for pushing
+#4	>git config --global user.email "you@example.com" #to user mail configuration
+  	>git config --global user.name "Your Name" #to user name configuration
+#5	>git push
