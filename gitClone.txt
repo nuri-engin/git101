@@ -5,3 +5,4 @@
 #4	>git config --global user.email "you@example.com" #to user mail configuration
   	>git config --global user.name "Your Name" #to user name configuration
 #5	>git push
+#6	>git pull #to clone all new changes
